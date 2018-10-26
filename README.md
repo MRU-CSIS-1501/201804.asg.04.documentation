@@ -1,48 +1,41 @@
 # Assignment 04
 
-## How to check your work
+**DUE: Monday, November 19, 2018 @ 5:00PM**
 
-If you want to check whether your code is _behaving as expected_, you can run the command **make tests** from the directory of the challenge you're
-working on.
+**WHERE TO GET IT**: `/users/library/csis/comp1501/assignments/4.asg.jpratt`
 
-> Just because the given tests run green does **not** mean everything is fine - we've only included a handful of the test data we will use to actually mark your assignments for correctness! You can add your own test data to the csv files in the `tests/data` directory; just add additional rows to the data already there.
+**SUBMISSION PROCEDURE**:
 
-If you want to see whether your code is _following the coding standards for this course_, you can run the command **make style** from the directory of the challenge you're working on.
+To submit your assignment, just use the usual **submit1501** on INS.
+When asked for the task identifier, please use **asg04**.
 
-> There is some overlap between the two tools used to do this task, so you may notice some warnings are repeated between the two tools. If you don't understand any of the warnings (they **can** be a little opaque), please talk to one of the IAs or your instructor.
+**WEIGHT: 6%** _(note the increase compared to the last 3 assignments)_
 
----
+**ANY QUESTIONS?** Please post any questions to [Piazza](https://piazza.com/class/jm9cg39jrr21zs?cid=9#), ideally in the **assignment4** folder.
 
-## Things you'll see
+## Overview
 
-- constants
-- variables
-- parameters
-- methods
-- conditional statements
-- repetition statements
-- value-returning methods (a.k.a. functions)
-- `Scanner` (for input from keyboard)
-- `System.out.println`
-- `String.format`
-- `System.out.format/printf`
-- integer division (`/`) and integer remainder (`%`)
+This assignment has 1 challenge - you are being asked to create a single application of non-trivial size. This will be the standard going forward in this course as well as your future programming courses in the program. Welcome to the big leagues.
 
-### Things you'll do
+## Suggestions for a plan of attack
 
-- compile your code
-- fix syntax and logic errors
-- debug
-- read documentation
-- read other people's code
-- run automated tests
-- run static code checkers
-- break problems into small chunks (a.k.a. functional decomposition)
-- get keyboard input
-- continue prompting for input until suitable value received from user
+Starting a major assignment can feel overwhelming...where do you start?!?
 
-### Collateral Learning Opportunities
+Here are my suggestions.
 
-- parsing videos for useful information
-- searching API for useful methods
-- working toward a solution by working through examples of the problem
+- foo
+- bar
+- bax
+
+## Running tests
+
+- Run the automated output tests using `make tests`
+- Run the automated style tests using `make style -i`
+
+## WARNING!
+
+You will want to get started on this right away.
+
+You know by now from your experiences in the last 3 assignments that programming is a time-consuming (nay, a time-_devouring_) process. To make matters more interesting, you are now entering the time of a semester when numerous things (often of significant weight) are coming due in your other courses and it's very easy to feel overwhelmed.
+
+Persevere - you can get through this, as have others before you.
