@@ -15,6 +15,16 @@ Just because a method is being used here, doesn't mean **your** code needs to us
 >  */
 > </pre>
 
+---
+
+> <pre> public static String colorOf(String card)</pre>
+> <pre>
+>  /**
+>    * Returns the color of a given Parade card.
+>    * Invalid cards are given a color of INVALID_CARD_COLOR.
+>    */
+> </pre>
+
 ### String colorOf(String card)
 
 ### char symbolOf(String card)
