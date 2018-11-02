@@ -17,6 +17,14 @@ When asked for the task identifier, please use **asg04**.
 
 This assignment has 1 challenge - you are being asked to create a single application of non-trivial size. This will be the standard going forward in this course as well as your future programming courses in the program. Welcome to the big leagues.
 
+## !!! WARNING !!!!
+
+You will want to get started on this right away.
+
+You know by now from your experiences in the last 3 assignments that programming is a time-consuming (nay, a time-_devouring_) process. To make matters more interesting, you are now entering the time of a semester when numerous things (often of significant weight) are coming due in your other courses and it's very easy to feel overwhelmed.
+
+Persevere - you can get through this, as have others before you.
+
 ## Suggestions for a plan of attack
 
 Starting a major assignment can feel overwhelming...where do you start?!?
@@ -43,11 +51,3 @@ Here are my suggestions.
 
 - Run the automated output tests using `make tests`
 - Run the automated style tests using `make style -i`
-
-## WARNING!
-
-You will want to get started on this right away.
-
-You know by now from your experiences in the last 3 assignments that programming is a time-consuming (nay, a time-_devouring_) process. To make matters more interesting, you are now entering the time of a semester when numerous things (often of significant weight) are coming due in your other courses and it's very easy to feel overwhelmed.
-
-Persevere - you can get through this, as have others before you.
