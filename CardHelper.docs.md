@@ -4,11 +4,16 @@
 
 This class contains methods that will help you deal with Cards.
 
-You are not being forced to use these methods - perhaps in your solution, they will not be necessary.
+Just because a method is being used here, doesn't mean **your** code needs to use it: some of these methods exist for other Helper classes to use!
 
 ## Public Methods
 
-### String validSymbols()
+> <pre> public static String validSymbols()</pre>
+> <pre>
+> /**
+>  * Returns all allowable symbols from the cards in a Parade deck.
+>  */
+> </pre>
 
 ### String colorOf(String card)
 
