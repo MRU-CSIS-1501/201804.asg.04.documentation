@@ -25,12 +25,41 @@ Just because a method is being used here, doesn't mean **your** code needs to us
 >  */
 > </pre>
 
-### String colorOf(String card)
+---
 
 ### char symbolOf(String card)
+> <pre>
+> /**
+>  * Returns the sybmol (R,Y,B,P,A,G, or U) of a given card.
+>  *  If card isn't valid, returns INVALID_CARD_SYMBOL.
+>  */
+> </pre>
+
+---
 
 ### int valueOf(String card)
+> <pre>
+> /**
+>  *  Returns the value (0-10) of a given card.
+>  *  If card is invalid, returns INVALID_CARD_VAL.
+>  */
+> </pre>
+
+---
 
 ### boolean haveSameColor(String cardA, String cardB)
+> <pre>
+> /**
+>  *  Returns true if cardA and cardB have the same color.
+>  */
+> </pre>
+
+---
 
 ### boolean valid(String card)
+> <pre>
+> /**
+>  *  Returns true if card has a valid format.
+>  *  [Color Symbol]-[Value 0 thru 10]
+>  */
+> </pre>
