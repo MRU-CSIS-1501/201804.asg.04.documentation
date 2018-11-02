@@ -8,7 +8,7 @@ Just because a method is being used here, doesn't mean **your** code needs to us
 
 ## Public Methods
 
-> <pre> public static String validSymbols()</pre>
+> <pre> <b>public static String validSymbols()</b></pre>
 > <pre>
 > /**
 >  * Returns all allowable symbols from the cards in a Parade deck.
@@ -17,12 +17,12 @@ Just because a method is being used here, doesn't mean **your** code needs to us
 
 ---
 
-> <pre> public static String colorOf(String card)</pre>
+> <pre> <b>public static String colorOf(String card)</b></pre>
 > <pre>
->  /**
->    * Returns the color of a given Parade card.
->    * Invalid cards are given a color of INVALID_CARD_COLOR.
->    */
+> /**
+>  * Returns the color of a given Parade card.
+>  * Invalid cards are given a color of INVALID_CARD_COLOR.
+>  */
 > </pre>
 
 ### String colorOf(String card)
